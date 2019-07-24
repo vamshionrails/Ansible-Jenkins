@@ -1,0 +1,9 @@
+galaxy_info:
+  author: Vamshidhar Kuchikulla
+  description: Install Jenkins
+  company: Sabre 
+  license: Sabre licensed 
+  min_ansible_version: 2.4
+  galaxy_tags: []
+
+dependencies: []
